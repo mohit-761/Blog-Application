@@ -39,5 +39,25 @@ Navigate to the login endpoint (e.g., http://localhost:4000/login). Provide your
 ## Blog Management (after login):
 Use the provided API endpoints to create, view, update, and delete blog posts. The specific endpoints may vary depending on your implementation, but they should follow RESTful design principles.
 
+
+## Images of user-interface of this application:
+**Home Page** 
+![HomePageImage](./application-pages-image/homepage.png)
+
+**SignIn Page**
+![SignInPageImage](./application-pages-image/signinpage.png)
+
+**LogIn Page**
+![LoginPageImage](./application-pages-image/loginpage.png)
+
+**UserHome Page**
+![UserHomePageImage](./application-pages-image/userhome.png)
+
+**Add Blog Page**
+![AddNewBlogImage](./application-pages-image/addnewblogpage.png)
+
+**Update User Details Page**
+![UpdateUserDetailsImage](./application-pages-image/updateblogpage.png)
+
 # Feel free to contribute:
-This project is open-source! We welcome your contributions to improve the functionality and features of the Blog Application.
+This project is open-source! I welcome your contributions to improve the functionality and features of the Blog Application.

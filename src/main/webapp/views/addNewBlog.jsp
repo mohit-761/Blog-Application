@@ -20,7 +20,7 @@
         <ul>
           <li><a href="/">Home</a></li>
           <li><a class="active" href="#">Update Blog</a><li>
-          <li><a href="/userdetails/${content.author_id}">Go Back</a></li>
+          <li><a href="/userdetails/${userid}">Go Back</a></li>
         </ul>
       </div>
     </section><!--header-->
