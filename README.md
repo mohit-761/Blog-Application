@@ -56,7 +56,7 @@ Use the provided API endpoints to create, view, update, and delete blog posts. T
 **Add Blog Page**
 ![AddNewBlogImage](./application-pages-image/addnewblogpage.png)
 
-**Update User Details Page**
+**Update Blog Page**
 ![UpdateUserDetailsImage](./application-pages-image/updateblogpage.png)
 
 # Feel free to contribute:
